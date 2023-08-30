@@ -1,7 +1,6 @@
 import pytest
 import sys
 from io import StringIO
-import capsys
 import result
 data=[]
 with open("test_data1.txt") as file:
