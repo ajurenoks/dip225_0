@@ -1,7 +1,7 @@
 # DIP 225 course introduction task
 
 In the United States, it’s customary to leave a tip for your server after dining in a restaurant, typically an amount equal to 15% or more of your meal’s cost. Not to worry, though, we’ve written a tip calculator for you, below!
-
+``` 
 def main():
     dollars = dollars_to_float(input("How much was the meal? "))
     percent = percent_to_float(input("What percentage would you like to tip? "))
@@ -15,6 +15,10 @@ def percent_to_float(p):
     # TODO
 
 main()
+
+```
+
+
 
 Well, we’ve written most of a tip calculator for you. Unfortunately, we didn’t have time to implement two functions:
 
