@@ -1,5 +1,7 @@
 # DIP 225 course introduction task
 
+**You should submit your final project as result.py file**
+
 In the United States, it’s customary to leave a tip for your server after dining in a restaurant, typically an amount equal to 15% or more of your meal’s cost. Not to worry, though, we’ve written a tip calculator for you, below!
 ``` 
 def main():
@@ -27,4 +29,3 @@ percent_to_float, which should accept a str as input (formatted as ##%, wherein 
 
 Assume that the user will input values in the expected formats.
 
-**To submit your final project, please save your file as result.py **
